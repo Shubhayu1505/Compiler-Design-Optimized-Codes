@@ -1,0 +1,7 @@
+6
+S=aAd
+S=aB
+A=a
+A=ab
+B=ccd
+B=ddc
